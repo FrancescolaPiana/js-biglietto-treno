@@ -1,0 +1,50 @@
+
+*{
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+#hgt{
+    height: 500px;
+    background-color: rgb(152, 231, 61);
+    /* border-radius: 15px; */
+    border-radius: 15px 15px 200px 50px;
+   /*border-radius: ul   ur   dr   dl;  */
+   overflow-y: hidden ;
+}
+
+.hgt2{
+    height: 500px;
+    background-color: rgb(30, 30, 30);
+    border-right: 3px solid rgb(209, 0, 0) ;
+}
+
+.hgt3{
+    height: 250px;
+    border: 1px solid  rgb(155, 163, 165);
+    background-color: rgb(204, 214, 216);
+    align-self: flex-end;
+    border-radius: 10px 10px 0px 0px;
+    position: relative;
+}
+
+#kmtxt{
+    color:rgb(175, 29, 29);
+    font-size: 60px;
+    font-weight: 800;
+}
+
+#costtxt{
+    color:rgb(30, 30, 30);
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.ssr{
+    color:rgb(30, 30, 30);
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.mrg{
+    margin-top: 100px;
+}
